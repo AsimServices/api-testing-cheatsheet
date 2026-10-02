@@ -1,0 +1,14 @@
+{
+  "name": "api-testing-cheatsheet",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Practical HTTP testing reference with a runnable response inspector, debugging checklist, and test-case template.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
